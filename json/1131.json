@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1131",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1131.png",
+  "dna": "62a739cf3caa618a621b04555cac423783418e6d",
+  "edition": 1131,
+  "date": 1654239599947,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "deep pink"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "7"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "broke"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "tv"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye15"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver ring"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "7"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "fire"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #662",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/662.png",
+  "dna": "5ac6d0e412ac21e9e35842e7589c3fe87bba5861",
+  "edition": 662,
+  "date": 1654239495059,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "wwwwwwwwww"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "8"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "fire"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "2"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "angel"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #465",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/465.png",
+  "dna": "d256aa60b8bd34fdb167394c044377467ddaa5ce",
+  "edition": 465,
+  "date": 1654239446750,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "7"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "goldy"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye8"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "vvs"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "red shade"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "7"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "blank"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

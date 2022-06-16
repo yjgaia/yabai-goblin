@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2989",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2989.png",
+  "dna": "c6bda332462b067c23d07e7c9141ff82b0d23ff1",
+  "edition": 2989,
+  "date": 1654240033766,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "devil"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "tabaco"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye14"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "glasses"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "9"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "yellow"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

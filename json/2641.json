@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2641",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2641.png",
+  "dna": "1e43661d9156d29229b3017ed829baf2e945f4ff",
+  "edition": 2641,
+  "date": 1654239945897,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "sea"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "daisey"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth2"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "EYE21"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver ring"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "3d"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "4"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "bomb"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2409",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2409.png",
+  "dna": "4ad6308ba1d481022c40ba9fcfb909de9c772cbf",
+  "edition": 2409,
+  "date": 1654239891251,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "spring"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "brown"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "5"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "wing"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth6"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "drip"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "8"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "pig"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

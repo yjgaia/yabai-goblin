@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2616",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2616.png",
+  "dna": "d9931a87cba3d17b481c117978344729535d4617",
+  "edition": 2616,
+  "date": 1654239939408,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "red"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "2"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth5"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "stoned"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "tear"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "9"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "oni"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

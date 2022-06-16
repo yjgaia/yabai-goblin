@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1984",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1984.png",
+  "dna": "9dd2cf95f4a14acf314d6a53beb10d11dab38f45",
+  "edition": 1984,
+  "date": 1654239794324,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "4"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "broke"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "green wave"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye15"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "6"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "arrow"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

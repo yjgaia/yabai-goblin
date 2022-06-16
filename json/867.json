@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #867",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/867.png",
+  "dna": "f6c47667bff8715db1d93e2a63dfc7804c06e919",
+  "edition": 867,
+  "date": 1654239541593,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "5"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "chicken pizza"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "tabaco"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "love"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "8"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "black hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

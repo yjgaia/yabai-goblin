@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2907",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2907.png",
+  "dna": "fb883441341c956909a6cedbb5d66f734603361b",
+  "edition": 2907,
+  "date": 1654240015014,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "stone"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth7"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "x"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "3"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "black"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

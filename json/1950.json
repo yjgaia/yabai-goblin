@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1950",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1950.png",
+  "dna": "5d5faf72b2fe7b5931e30d016d414b69b97c0e41",
+  "edition": 1950,
+  "date": 1654239785029,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "tabaco"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye3"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "7"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "blue bandana"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2007",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2007.png",
+  "dna": "425aa8c38c5abd42595c861fa797866435838855",
+  "edition": 2007,
+  "date": 1654239800563,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sword"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "tabaco"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "sleep"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "vvs"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "8"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "fly"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

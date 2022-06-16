@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2238",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2238.png",
+  "dna": "bfbfb3ab68849f1b0f109747553d6db6331a5980",
+  "edition": 2238,
+  "date": 1654239853700,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "night"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "coke"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye1"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "9"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "bomb"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

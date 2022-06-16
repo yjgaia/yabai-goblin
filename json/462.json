@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #462",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/462.png",
+  "dna": "5a87f80d9baa4fdd4563327fdd8b816a1da0172c",
+  "edition": 462,
+  "date": 1654239446105,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "daisey"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth3"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye18"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "red"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "3"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "gn"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

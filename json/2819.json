@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2819",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2819.png",
+  "dna": "479d12a7cee67ce97915cd6323081245fcceea10",
+  "edition": 2819,
+  "date": 1654239992474,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "cow"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "2"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth4"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye14"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "leon"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "7"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "deep red"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2920",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2920.png",
+  "dna": "dcac0b0ec8dfe0a2038bf129bffbfbcacd11e3bd",
+  "edition": 2920,
+  "date": 1654240018085,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "4"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sword"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "EYE21"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "leon"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "4"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "bomb"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

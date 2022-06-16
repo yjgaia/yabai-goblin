@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #407",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/407.png",
+  "dna": "f926e1d09e6160fa1da3ee0bd603da7421f5b80b",
+  "edition": 407,
+  "date": 1654239434606,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "deep pink"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "5"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "daisey"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth10"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye3"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti2"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "12"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "bomb"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

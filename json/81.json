@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #81",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/81.png",
+  "dna": "ee2d4fd472f3d838381c89a47e968ebe98f71dd1",
+  "edition": 81,
+  "date": 1654239363729,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "spring"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sword"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "smoke"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "x"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "5"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "blank"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

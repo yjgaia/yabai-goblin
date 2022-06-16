@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1977",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1977.png",
+  "dna": "53a454ebd806cd5b17b41adca8c887b6d6393de1",
+  "edition": 1977,
+  "date": 1654239792375,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "chicken pizza"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "coke"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye4"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "vvs"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "3d"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "12"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "black cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

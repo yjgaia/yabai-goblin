@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2980",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2980.png",
+  "dna": "513b9f22db764af522cabfc40a70c5e49d7e85f6",
+  "edition": 2980,
+  "date": 1654240031731,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "brown"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sword"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth9"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye6"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti2"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "8"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "music"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

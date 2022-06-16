@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #502",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/502.png",
+  "dna": "34bac5cc17f96c3bde2f6aecdcbb44a163fa7379",
+  "edition": 502,
+  "date": 1654239455192,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "2"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "chicken pizza"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth8"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye6"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver ring"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "7"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "xxx"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

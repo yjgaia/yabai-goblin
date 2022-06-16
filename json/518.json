@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #518",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/518.png",
+  "dna": "8e57407b99890618fc42b58af594e66e5bdc23bc",
+  "edition": 518,
+  "date": 1654239459071,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "8"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "broke"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "full"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "drip2"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "5"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "weed hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

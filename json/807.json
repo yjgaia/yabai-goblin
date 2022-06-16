@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #807",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/807.png",
+  "dna": "3df66d2c905867c3f85c32daf1f828ae6b9fb4f1",
+  "edition": 807,
+  "date": 1654239528790,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sword"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "love"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "1"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "weed hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #960",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/960.png",
+  "dna": "55d75b52797d1b4e85025ea2591438c00f5a6903",
+  "edition": 960,
+  "date": 1654239561571,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "9"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "milk"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth3"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "anime5"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti2"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "5"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "ikuzo"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

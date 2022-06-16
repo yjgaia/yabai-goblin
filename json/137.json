@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #137",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/137.png",
+  "dna": "cfb629f506a4c295c6f590e2a8542889146c5711",
+  "edition": 137,
+  "date": 1654239376115,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "goldy"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "drip"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver ring"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "11"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "sibal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

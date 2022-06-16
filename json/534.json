@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #534",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/534.png",
+  "dna": "b037dfd0edbca30c90d763baeb92e6980e35889a",
+  "edition": 534,
+  "date": 1654239463301,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "cow"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "5"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sword"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "coconut"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "x"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "vvs"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "red shade"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "1"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "smile"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

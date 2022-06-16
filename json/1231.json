@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1231",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1231.png",
+  "dna": "269096bca1b2fa768776ac98dba95efba4a350b9",
+  "edition": 1231,
+  "date": 1654239623502,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "bit"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "deep pink"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "broke"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth4"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye14"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "elephant"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "orenji"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

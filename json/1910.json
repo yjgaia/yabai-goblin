@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1910",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1910.png",
+  "dna": "7da3d8b90e75c13f5a6340918785cf08242fc8e6",
+  "edition": 1910,
+  "date": 1654239774306,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "sea"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "full"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye6"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blind"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "1"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "pizza cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

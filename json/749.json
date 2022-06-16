@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #749",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/749.png",
+  "dna": "6329d040b13a85acc798f47b09df1e1baabb4053",
+  "edition": 749,
+  "date": 1654239515984,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "2"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "gray low"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth8"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "tear"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "9"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "nurse"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

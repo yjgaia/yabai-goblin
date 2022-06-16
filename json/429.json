@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #429",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/429.png",
+  "dna": "94670abbaa5c3b9cf90efac175ac0ff13911d13f",
+  "edition": 429,
+  "date": 1654239439147,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "deep pink"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "water melon"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye10"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "3d"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "5"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "deep red"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

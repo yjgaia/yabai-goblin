@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1450",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1450.png",
+  "dna": "cc9f79ea4ae6bc53a7c1dbb230c749370aae54ca",
+  "edition": 1450,
+  "date": 1654239672312,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "brown"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "goldy"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye11"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "spider"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "12"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "peep"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

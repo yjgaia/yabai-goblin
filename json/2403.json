@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2403",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2403.png",
+  "dna": "59539dd3c29462ef8ebbcf6f3977dfb7bc0aa741",
+  "edition": 2403,
+  "date": 1654239889918,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "brown"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "8"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sexy"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "smoke"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "yen"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "10"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "black hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

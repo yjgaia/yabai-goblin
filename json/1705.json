@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1705",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1705.png",
+  "dna": "4b6d3d8984c7764a8dfe61a29ff1253fb2cf5110",
+  "edition": 1705,
+  "date": 1654239727173,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "2"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "hair"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth9"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye5"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "red"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "10"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "blue bandana"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

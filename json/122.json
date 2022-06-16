@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #122",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/122.png",
+  "dna": "a9f8dbfb3ce62c5539ae1da98f785f18d054187f",
+  "edition": 122,
+  "date": 1654239372816,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "red"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "devil"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth11"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "love"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "1"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "pizza cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

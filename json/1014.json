@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1014",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1014.png",
+  "dna": "bf881be5d1150a1dfc512cde5223ef1c398d0c82",
+  "edition": 1014,
+  "date": 1654239573257,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "spring"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "2"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "broke"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "fire"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "3d"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "pig"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "music"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

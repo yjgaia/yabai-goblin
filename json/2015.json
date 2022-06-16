@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2015",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2015.png",
+  "dna": "51e7aab8cc79d2626149d2c7490150cd55d56926",
+  "edition": 2015,
+  "date": 1654239803134,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "8"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "devil"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth9"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "sleep"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "9"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "drake"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

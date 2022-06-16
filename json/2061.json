@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2061",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2061.png",
+  "dna": "d9b2a0dc28375622c9793a87f58a6bc44b508e79",
+  "edition": 2061,
+  "date": 1654239814751,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "red"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "4"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "tabaco"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye3"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "chirstmas"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "red band"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

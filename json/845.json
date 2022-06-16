@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #845",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/845.png",
+  "dna": "ed2b12e2baa5708cf906df4a434b9b9e1e3cb576",
+  "edition": 845,
+  "date": 1654239536931,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "eth"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "2"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "goldy"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "drip"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "vvs"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "spider"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "11"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "meta hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

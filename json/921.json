@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #921",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/921.png",
+  "dna": "17201acd6924472230a6401e182a9629a3377e1e",
+  "edition": 921,
+  "date": 1654239553063,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "human"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "7"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "chicken pizza"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "full"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye15"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "7"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "nigmi"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

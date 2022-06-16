@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1920",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1920.png",
+  "dna": "62750a3241be86d9281124df274c357f14a9f05a",
+  "edition": 1920,
+  "date": 1654239776888,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "8"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sword"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth11"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye19"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver ring"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "9"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "red band"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

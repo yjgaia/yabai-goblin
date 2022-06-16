@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1254",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1254.png",
+  "dna": "259c204ab9ec3962738ebfb68323969e30418453",
+  "edition": 1254,
+  "date": 1654239628908,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "7"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "chicken pizza"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye11"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "vvs"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "9"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "pinky"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

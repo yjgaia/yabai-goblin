@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1976",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1976.png",
+  "dna": "4e6ec08e29c9141080915445de03a8739fdf8539",
+  "edition": 1976,
+  "date": 1654239792106,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "5"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "devil"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth2"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "x"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "vvs"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "pig"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "black hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1724",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1724.png",
+  "dna": "87a62ed76d5de9089eebf8f827b31e598eabf8c3",
+  "edition": 1724,
+  "date": 1654239731292,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "brown"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "7"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth3"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye9"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blind"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "7"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "deep red"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

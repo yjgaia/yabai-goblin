@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #161",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/161.png",
+  "dna": "713a25fddc5963bda2ad249d1c1e4e44e17a6cbd",
+  "edition": 161,
+  "date": 1654239381318,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "stone"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "tabaco"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye6"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "9"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "orenji"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

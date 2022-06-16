@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #949",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/949.png",
+  "dna": "c83d0ba709c07011b1cc543457035a2fe84e8649",
+  "edition": 949,
+  "date": 1654239559118,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "space"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "chicken pizza"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye6"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "red"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "6"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "red band"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

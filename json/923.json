@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #923",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/923.png",
+  "dna": "802c95aa9309685699625d9088d6a6d0a9d1d504",
+  "edition": 923,
+  "date": 1654239553485,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "space"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "brown"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "coke"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye18"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "spider"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "12"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "blank"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

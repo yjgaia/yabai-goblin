@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #219",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/219.png",
+  "dna": "233b7d6155077826aeeb1009527f8feabbcc5adb",
+  "edition": 219,
+  "date": 1654239394204,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "chicken pizza"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "water melon"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye1"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "spider"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "chirstmas"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "wagmi"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

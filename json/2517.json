@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2517",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2517.png",
+  "dna": "70bc90e95a9289489918a3f496022e72f6a9c2e0",
+  "edition": 2517,
+  "date": 1654239915388,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "cow"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "green wave"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "stoned"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "2"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "sex"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

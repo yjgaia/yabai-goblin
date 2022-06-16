@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #795",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/795.png",
+  "dna": "f9c076556d44aeae88e6c5abb3e86789d466dceb",
+  "edition": 795,
+  "date": 1654239526228,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "5"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "angel"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth4"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "light"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "green shade"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "8"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "white"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

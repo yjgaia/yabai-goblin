@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2322",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2322.png",
+  "dna": "8bc1403ff7eeb8438157fd34d12efcd30f534879",
+  "edition": 2322,
+  "date": 1654239871654,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "2"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "chicken pizza"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "full"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "drip2"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "11"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "green"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

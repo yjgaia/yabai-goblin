@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2196",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2196.png",
+  "dna": "2e7138554f79606e9e5e48c7925118e3e5ccee47",
+  "edition": 2196,
+  "date": 1654239844801,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "deep pink"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth5"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye4"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blind"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "4"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "nigmi"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2295",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2295.png",
+  "dna": "1d2d4b82467c94a7b83b75bfcd53626d82174177",
+  "edition": 2295,
+  "date": 1654239865783,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "cow"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "2"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "devil"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye17"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti2"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "7"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "blue bandana"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

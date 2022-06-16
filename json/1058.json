@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1058",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1058.png",
+  "dna": "f0491fb01dc1be747319e6ca61f2c486f3d353fd",
+  "edition": 1058,
+  "date": 1654239582876,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "brown"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "full"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "one"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "red"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "8"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "ikuzo"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

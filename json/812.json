@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #812",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/812.png",
+  "dna": "53d0048afda23b6bd28c8617d460f36b72b5dfea",
+  "edition": 812,
+  "date": 1654239529863,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "deep pink"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "7"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "tv"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye8"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "green shade"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "8"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "meta hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

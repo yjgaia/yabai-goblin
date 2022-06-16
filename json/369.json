@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #369",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/369.png",
+  "dna": "73d903cb0dcc5c028396b57706f0d861469df1be",
+  "edition": 369,
+  "date": 1654239426739,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "red"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "8"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "gray low"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth7"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye7"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "7"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "lady"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

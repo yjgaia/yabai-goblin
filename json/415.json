@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #415",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/415.png",
+  "dna": "4005ab7a651e64402e3cce65d80809a6b546f4e7",
+  "edition": 415,
+  "date": 1654239436253,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "chicken pizza"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth3"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye15"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver ring"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "11"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "drake"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

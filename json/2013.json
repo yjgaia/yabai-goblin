@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2013",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2013.png",
+  "dna": "5302544343b0145adf2909dc6e77ec17b9cbd699",
+  "edition": 2013,
+  "date": 1654239802139,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "space"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "hair"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth2"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "sleep"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "2"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "devil"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

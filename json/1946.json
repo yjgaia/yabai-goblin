@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1946",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1946.png",
+  "dna": "3a86e14fc74125ee442e84f19043e131bf0ce7d3",
+  "edition": 1946,
+  "date": 1654239783988,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "eth"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "stone"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sexy"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth6"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye1"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti2"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "pig"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "weed hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

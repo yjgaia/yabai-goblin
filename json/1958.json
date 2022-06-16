@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1958",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1958.png",
+  "dna": "1e092fd94a6a80c51fbe7400623bc644a0804bde",
+  "edition": 1958,
+  "date": 1654239787237,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "cow"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "beef"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye7"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "vvs"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "red shade"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "10"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "red band"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2934",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2934.png",
+  "dna": "0ed03ff936061b9ac869b0ff1c5cb1861879fccc",
+  "edition": 2934,
+  "date": 1654240021241,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "moneyrain"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "devil"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth10"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye20"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "12"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "ikuzo"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

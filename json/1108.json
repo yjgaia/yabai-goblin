@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1108",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1108.png",
+  "dna": "11f68b513d369278775b89a81a706a40da8f0627",
+  "edition": 1108,
+  "date": 1654239594602,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "broke"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "goldy"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye5"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "leon"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "10"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "tothemoon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #702",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/702.png",
+  "dna": "c805dc7d25dcafe0ea7d1838fd7666a6ef1d4634",
+  "edition": 702,
+  "date": 1654239505068,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "moneyrain"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "5"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "smoke"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "face"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "6"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "black hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

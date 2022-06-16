@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2162",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2162.png",
+  "dna": "0bade5b5db24d38feeed5cfa9f4af1f5397f4caa",
+  "edition": 2162,
+  "date": 1654239837582,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "milk"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "tv"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye1"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "red"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "11"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "weed hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

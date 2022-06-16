@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1060",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1060.png",
+  "dna": "25444803fb7057012556f36d4d7d06007bc39d70",
+  "edition": 1060,
+  "date": 1654239583325,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "sea"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sleeveless"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth3"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "x"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver ring"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "red"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "4"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "burger cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

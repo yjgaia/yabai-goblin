@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1441",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1441.png",
+  "dna": "49354ecc41b8dc3e99944a9f4c3fe6c334b39238",
+  "edition": 1441,
+  "date": 1654239670389,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "red"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "chicken pizza"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "full"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "love"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "green shade"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "elephant"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "fire"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

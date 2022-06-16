@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #101",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/101.png",
+  "dna": "4116451e0903fabb5511b921e2ff9e67ae34a331",
+  "edition": 101,
+  "date": 1654239368335,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "deep pink"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sleeveless"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth8"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "love"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "1"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "pink"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

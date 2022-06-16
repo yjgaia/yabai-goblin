@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2603",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2603.png",
+  "dna": "db197d4c6b6fe14726b8a03302fb589104382732",
+  "edition": 2603,
+  "date": 1654239936022,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "4"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "angel"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth8"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "face"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "leon"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "3"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "sex"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

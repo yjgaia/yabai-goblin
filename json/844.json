@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #844",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/844.png",
+  "dna": "c823ce777d4b931de06e708e71a9b8df933f19fa",
+  "edition": 844,
+  "date": 1654239536705,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "gold"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth9"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "anime2"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "1"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "devil"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

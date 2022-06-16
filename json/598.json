@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #598",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/598.png",
+  "dna": "5b024cf56e3f0b381a0d9392653122b50ea45645",
+  "edition": 598,
+  "date": 1654239478997,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "purple"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "8"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth2"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye5"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "leon"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "2"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "fuck"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

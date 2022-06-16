@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1419",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1419.png",
+  "dna": "f1a39c12ae7181bb1ce60138ec16dc1bbe9b7103",
+  "edition": 1419,
+  "date": 1654239665731,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "deep pink"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth8"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye18"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "vvs"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "4"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "angry"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

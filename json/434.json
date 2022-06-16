@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #434",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/434.png",
+  "dna": "52ebc7fab18ac1082624d206e890af4dfdb4d7b1",
+  "edition": 434,
+  "date": 1654239440182,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "brown"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "2"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth2"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "drip3"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "12"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "party"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

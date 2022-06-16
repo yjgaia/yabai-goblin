@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1748",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1748.png",
+  "dna": "60f70b89aeafe9cec618c1167071eeae378abc61",
+  "edition": 1748,
+  "date": 1654239736502,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "window"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "stone"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "4"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "ramen"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye14"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "leon"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "9"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "black hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

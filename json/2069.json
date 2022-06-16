@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2069",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2069.png",
+  "dna": "64e2c8c7fa2413f7ab616ba861c6a31ffac503bc",
+  "edition": 2069,
+  "date": 1654239816644,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "wwwwwwwwww"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "8"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sexy"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "tabaco"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "drip2"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "green shade"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "9"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "bomb"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

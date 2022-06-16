@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1238",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1238.png",
+  "dna": "5a14a9dbbaf4f3b01b1239ef650cbb5fc909924a",
+  "edition": 1238,
+  "date": 1654239625142,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth2"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye15"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver ring"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blind"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "8"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "fly"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

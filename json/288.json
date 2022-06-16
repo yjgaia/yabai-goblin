@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #288",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/288.png",
+  "dna": "041db8869bc8506e27f0537bef8be6cc3dc9fb47",
+  "edition": 288,
+  "date": 1654239409785,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "hair"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "coconut"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "alien"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "drip"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "3"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "yellow"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

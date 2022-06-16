@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2705",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2705.png",
+  "dna": "66dc205762481bf7ae1c9a3a2b8460dcc8188df1",
+  "edition": 2705,
+  "date": 1654239962809,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "eth"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "5"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "full"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye7"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti2"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "7"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "music"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

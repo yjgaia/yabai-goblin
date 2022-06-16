@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2968",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2968.png",
+  "dna": "bc02871ec002036f1f4f18b4540a17891fff032e",
+  "edition": 2968,
+  "date": 1654240028952,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "9"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "tv"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye14"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "1"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "brown hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

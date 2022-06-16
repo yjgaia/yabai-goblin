@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2405",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2405.png",
+  "dna": "d3b0444be37fae2a63366d10a7eba3658533e18b",
+  "edition": 2405,
+  "date": 1654239890362,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "spring"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "deep pink"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "water melon"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye3"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blind"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "11"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "green"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #903",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/903.png",
+  "dna": "d50e6f2da9a5e2489700e85987d2dbd4fd8706dd",
+  "edition": 903,
+  "date": 1654239549239,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "5"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "chicken pizza"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "beef"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye15"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "6"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "pinky"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

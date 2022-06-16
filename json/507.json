@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #507",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/507.png",
+  "dna": "c996bac24079dece35699aff83a9e2894dd5d18b",
+  "edition": 507,
+  "date": 1654239456376,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "stone"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "water melon"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye9"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "2"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "axe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

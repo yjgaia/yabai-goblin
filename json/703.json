@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #703",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/703.png",
+  "dna": "3b77709adeedaa5c66491a1df2e5fe10f9282a94",
+  "edition": 703,
+  "date": 1654239505305,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "8"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "gray low"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "ramen"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "alien"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "glasses"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "11"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "black hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2876",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2876.png",
+  "dna": "49e76c8503fc733ca540fc0f5188169cfde40384",
+  "edition": 2876,
+  "date": 1654240007558,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "night"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "beef"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye18"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "leon"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "5"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "red band"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

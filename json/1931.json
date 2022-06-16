@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1931",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1931.png",
+  "dna": "3bd8513a122c545ab1c31ed94ffd96cc731707f6",
+  "edition": 1931,
+  "date": 1654239779821,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "purple wave"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "light"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver ring"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "11"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "party"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

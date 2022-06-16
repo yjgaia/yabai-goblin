@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2085",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2085.png",
+  "dna": "189eb6da4e039e9089cd98843b6c7a5614eb9469",
+  "edition": 2085,
+  "date": 1654239820412,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "9"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "chicken pizza"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "full"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye20"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "leon"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "10"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "yabai"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

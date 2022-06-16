@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2948",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2948.png",
+  "dna": "beb2b4ce035b765b97f4b05f222dfc0ab3156bc6",
+  "edition": 2948,
+  "date": 1654240024388,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "khaki"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "4"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "broke"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "full"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye13"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "gold"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blue lazer"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "9"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "fuck"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1744",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1744.png",
+  "dna": "bacca54c09751e4e199bb04520f6d14700187b51",
+  "edition": 1744,
+  "date": 1654239735639,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "sea"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "1"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "tabaco"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "sleep"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "5"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "deep green"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

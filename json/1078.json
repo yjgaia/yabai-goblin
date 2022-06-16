@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1078",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1078.png",
+  "dna": "857254ff732d60d9a69b47d1442766a2282e225d",
+  "edition": 1078,
+  "date": 1654239587491,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "window"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "5"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sexy"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "smoke"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye4"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver ring"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "tear"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "10"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "king"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1022",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1022.png",
+  "dna": "be92b1e9d5e06e151c1de30106f076cae5c860f7",
+  "edition": 1022,
+  "date": 1654239575020,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "night"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "4"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth11"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye6"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "4"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "black cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

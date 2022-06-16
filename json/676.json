@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #676",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/676.png",
+  "dna": "dd4dd40494b6412e2e0195063367f5a6b965d125",
+  "edition": 676,
+  "date": 1654239498580,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "sea"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "7"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "angel"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth6"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye7"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "pino"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "devil"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

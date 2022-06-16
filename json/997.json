@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #997",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/997.png",
+  "dna": "08eb2e867fcf195621222e2bb59c2e44dce8eccc",
+  "edition": 997,
+  "date": 1654239569543,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "7"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth9"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye19"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "carti"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "elephant"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "high"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

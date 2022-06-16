@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2184",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2184.png",
+  "dna": "03005a2697c3fe8a8325f0957ba06bb0e50f6a35",
+  "edition": 2184,
+  "date": 1654239842261,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "4"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "hair"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "coke"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye1"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "glasses"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "10"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "kara cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

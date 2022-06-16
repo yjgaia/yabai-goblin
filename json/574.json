@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #574",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/574.png",
+  "dna": "e414f3b055e3e67dd2577257a692e583ac36a9da",
+  "edition": 574,
+  "date": 1654239472836,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "window"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "red"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth11"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "one"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "1"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "king"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

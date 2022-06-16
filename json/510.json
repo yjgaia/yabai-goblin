@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #510",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/510.png",
+  "dna": "47fc56a7d7af9198ab22aa0f42a9bc33dcf4b849",
+  "edition": 510,
+  "date": 1654239457160,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sword"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth10"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye10"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver ring"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "3d"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "12"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "party"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

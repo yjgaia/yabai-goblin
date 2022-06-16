@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #329",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/329.png",
+  "dna": "9f32b9b5342a2425e4829d1ce8305e968b6481d9",
+  "edition": 329,
+  "date": 1654239418319,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "sexy black "
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth4"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "EYE21"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "red"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "4"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "tothemoon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #808",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/808.png",
+  "dna": "d8edf2383a0a797d2b70b7485468dc077a62ead8",
+  "edition": 808,
+  "date": 1654239529000,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "6"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth7"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye20"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver ring"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "12"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "japan"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

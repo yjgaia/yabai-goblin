@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2748",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2748.png",
+  "dna": "45d72e3b0b00a1860f996fa5ed7da7aa533bb7bd",
+  "edition": 2748,
+  "date": 1654239973855,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "green"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "3"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mouth8"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye20"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "4"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "nurse"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #653",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/653.png",
+  "dna": "cfdbe75a2ec13aea6d20af2539968168b4725466",
+  "edition": 653,
+  "date": 1654239492755,
+  "attributes": [
+    {
+      "trait_type": "10background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "9body color",
+      "value": "green"
+    },
+    {
+      "trait_type": "8eyebrow",
+      "value": "8"
+    },
+    {
+      "trait_type": "7body acc",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "goldy"
+    },
+    {
+      "trait_type": "5eye",
+      "value": "eye12"
+    },
+    {
+      "trait_type": "4ear",
+      "value": "silver cross"
+    },
+    {
+      "trait_type": "3glasses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "2nose",
+      "value": "9"
+    },
+    {
+      "trait_type": "1cap",
+      "value": "axe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
