@@ -10,6 +10,6 @@ import fs from "fs";
         delete json.edition;
         delete json.date;
         delete json.compiler;
-        fs.writeFileSync(`json/${i}.json`, JSON.stringify(json));
+        fs.writeFileSync(`json/${i}`, JSON.stringify(json));
     }
 })();

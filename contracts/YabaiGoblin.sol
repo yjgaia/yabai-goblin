@@ -13,7 +13,7 @@ contract YabaiGoblin is Ownable, ERC721A {
     address public minter;
 
     constructor() ERC721A("YABAI GOBLIN", "YAGO") {
-        __baseURI = "";
+        __baseURI = "https://storage.googleapis.com/klubs/contents/yabai-goblin/json/";
     }
 
     function _baseURI() internal view override returns (string memory) {
